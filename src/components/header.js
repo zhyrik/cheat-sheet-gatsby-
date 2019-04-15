@@ -22,6 +22,8 @@ const Header = () => (
       <Link style={linkStyles} to="/redux">redux</Link>
       <Link style={linkStyles} to="/test">test</Link>
       <Link style={linkStyles} to="/jest">jest</Link>
+      <Link style={linkStyles} to="/express">expresst</Link>
+      <Link style={linkStyles} to="/gatsby">gatsby</Link>
     </h1>
   </WrapStyled>
 )
